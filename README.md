@@ -4,7 +4,8 @@ bro made a statement too sahur even his opps approved of him 🥀🥀🥀
 # Proposals
 - TOR Simulator
   - Scope is to create an onion routing mechanism that transmits data in 3 layers, using three different keys for the layers. This could probably get done in C with networking, and basic asymmetric key encryption for each layer.
-  - Intent is to learn networking 
+  - https://www.geeksforgeeks.org/computer-networks/asymmetric-key-cryptography/
+  - Intent is to learn networking and also a bit of cryptography
 
 
 - Steganography
