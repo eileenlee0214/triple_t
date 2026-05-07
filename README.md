@@ -3,8 +3,7 @@ bro made a statement too his even his opps approved of him 🥀🥀🥀
 
 # Proposals
 - TOR Simulator
-  - whaqt the fuck is this
-
+  - Scope is to create an onion routing mechanism that transmits data in 3 layers, using three different keys for the layers. This could probably get done in C with networking, and basic asymmetric key encryption for each layer.
 
 - Steganography
   - Scope is to create a program that can hide things in bit planes, and also potentially try to detect hidden/messed with bit planes.
